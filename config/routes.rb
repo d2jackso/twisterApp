@@ -1,8 +1,5 @@
 Rails.application.routes.draw do
-  get 'foo_bars/bls'
-
-  get 'foo_bars/asdf'
-
+  
   get 'static_pages/home'
 
   get 'static_pages/help'
